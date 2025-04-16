@@ -1,2 +1,2 @@
-1- Gere um ator que seja farmaceutico
-2 - Gere um ator que seja farmaceutico, especialista em analise de bulas de medicamentos
+1- Gere prompt que atue como farmaceutico
+2 - Gere prompt que atue como farmaceutico, especialista em analise de bulas de medicamentos
